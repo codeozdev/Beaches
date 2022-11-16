@@ -6,7 +6,7 @@ function Search() {
   return (
     <div
       className='max-w-[1240px] mx-auto py-16 px-4 grid grid-cols-1 md:grid-cols-3 gap-4'
-      name='beach'
+      name='service'
     >
       <div className='col-span-2 flex flex-col justify-evenly px-4'>
         <h1 className='text-3xl font-bold'>
